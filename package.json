@@ -1,0 +1,17 @@
+{
+  "name": "entrevista",
+  "version": "1.0.0",
+  "description": "entrevista",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JGorosito",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0"
+  }
+}
